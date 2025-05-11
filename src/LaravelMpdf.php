@@ -88,7 +88,7 @@ class LaravelMpdf
 
     /**
      * Get instance mpdf
-     * @return static
+     * @return \Mpdf\Mpdf
      */
     public function getMpdf()
     {
